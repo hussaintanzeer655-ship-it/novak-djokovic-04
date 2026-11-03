@@ -1,0 +1,1 @@
+(function(){/* simple placeholder for potential future interactions */})();
